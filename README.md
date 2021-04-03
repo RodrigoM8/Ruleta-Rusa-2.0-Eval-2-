@@ -5,4 +5,6 @@ Realizado por:
 - Rodrigo Martinez
 - Sebatián Pérez
 
+(Ruleta rusa en la que los jugadores se apuntan el revólver a sí mismos, no a los demás jugadores).
+
 EDD / Prof. Silvestre Cardenas
